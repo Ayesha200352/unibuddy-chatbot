@@ -24,7 +24,7 @@ Download the files and open `index.html` in a browser.
 To run on localhost: `python -m http.server 8080`, then open http://localhost:8080
 
 ## Live demo
-(add your GitHub Pages link here)
+https://ayesha200352.github.io/unibuddy-chatbot/
 
 ## Data source
 Horizon Campus Student Handbook (updated November 2025)
